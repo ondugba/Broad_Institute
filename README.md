@@ -1,2 +1,3 @@
 
-<img width="3840" height="2160" alt="DepMap_ndugba" src="https://github.com/user-attachments/assets/728e1f6c-e23a-4d62-a46d-1586aa7f1905" />
+<img width="500" height="281" alt="DepMap_ndugba" src="https://github.com/user-attachments/assets/83cd7875-4dc6-4f05-a45e-73f5da2b279f" />
+
